@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Healthy Meal Play",
+        "img": "./../images/lunch/lunch1.png",
+        "description": "how we dream about our future",
+        "price": 6.99
+    },
+    {
+        "Name": "Fried Chicken Bento",
+        "img": "./../images/lunch/lunch2.png",
+        "description": "how we dream about our future",
+        "price": 9.99
+    },
+    {
+        "Name": "Tarragon-Rubbed-salmon",
+        "img": "./../images/lunch/lunch3.png",
+        "description": "how we dream about our future",
+        "price": 10.99
+    },
+    {
+        "Name": "Indian Lunch",
+        "img": "./../images/lunch/lunch4.png",
+        "description": "how we dream about our future",
+        "price": 8.99
+    },
+    {
+        "Name": "Beef Steak",
+        "img": "./../images/lunch/lunch5.png",
+        "description": "how we dream about our future",
+        "price": 16.99
+    },
+    {
+        "Name": "Honey-Soy-Glazed Salmon with peppers",
+        "img": "./../images/lunch/lunch6.png",
+        "description": "how we dream about our future",
+        "price": 7.99
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Salmon with Grapefruit and lentil salad",
+        "img": "./../images/Dinner/dinner1.png",
+        "description": "how we dream about our future",
+        "price": 6.99
+    },
+    {
+        "Name": "Lemony salmon Piccata",
+        "img": "./../images/Dinner/dinner2.png",
+        "description": "how we dream about our future",
+        "price": 9.99
+    },
+    {
+        "Name": "Pork tenderloin with quinoa pilaf",
+        "img": "./../images/Dinner/dinner3.png",
+        "description": "how we dream about our future",
+        "price": 10.99
+    },
+    {
+        "Name": "french fries with cheese",
+        "img": "./../images/Dinner/dinner4.png",
+        "description": "how we dream about our future",
+        "price": 8.99
+    },
+    {
+        "Name": "Garlic Butter Baked salmon",
+        "img": "./../images/Dinner/dinner5.png",
+        "description": "how we dream about our future",
+        "price": 16.99
+    },
+    {
+        "Name": "Baked Chiken",
+        "img": "./../images/Dinner/dinner6.png",
+        "description": "how we dream about our future",
+        "price": 7.9
+    }
+]
